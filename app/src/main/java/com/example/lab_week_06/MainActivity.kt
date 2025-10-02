@@ -63,6 +63,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BritishShorthair,
+                    "Fred",
+                    "Silent and deadly",
+                    "https://cdn2.thecatapi.com/images/7dj.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Kampung,
+                    "Wilma",
+                    "Cuddly assassin",
+                    "https://cdn2.thecatapi.com/images/egv.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.MaineCoon,
+                    "Curious George",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Munchkin,
+                    "Curious George",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.Garong,
+                    "Fred",
+                    "Silent and deadly",
+                    "https://cdn2.thecatapi.com/images/7dj.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Husky,
+                    "Wilma",
+                    "Cuddly assassin",
+                    "https://cdn2.thecatapi.com/images/egv.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Butterscotch,
+                    "Curious George",
+                    "Award winning investigator",
+                    "https://cdn2.thecatapi.com/images/bar.jpg"
                 )
             )
         )
